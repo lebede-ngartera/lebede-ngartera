@@ -28,7 +28,26 @@ End-to-end machine learning pipeline for customer churn risk prediction using re
  https://github.com/lebede-ngartera/customer-churn-risk-ml
 
 ---
+## Decision Intelligence & Operations Research
+### 🔹 Supply Chain Decision Intelligence
 
+Decision-intelligence project integrating probabilistic demand forecasting, constrained optimization, and Monte Carlo risk evaluation for supply chain planning under uncertainty.
+
+The project demonstrates how uncertainty-aware forecasts (P50 vs P90) translate into materially different operational decisions when subject to inventory, capacity, and budget constraints, and how CVaR-based stress testing reveals tail risk invisible to mean-based metrics.
+
+Focus areas:
+
+Forecast-to-decision linkage (forecast quantiles → actions)
+
+Optimization under operational constraints
+
+Risk-aware evaluation using Monte Carlo simulation
+
+Executive-style decision memos communicating cost–service–risk tradeoffs
+
+https://github.com/lebede-ngartera/supply-chain-decision-intelligence
+
+---
 ### 🔹 Scam Detection via Hybrid Bayesian Models
 Implementation and evaluation of hybrid Naïve Bayes–based models for real-world scam detection, derived from peer-reviewed research.
 
