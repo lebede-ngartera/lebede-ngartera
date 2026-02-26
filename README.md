@@ -2,7 +2,7 @@
 
 **AI Strategist & Machine Learning Engineer**  
 PhD in Applied Mathematics · Bayesian & Probabilistic Machine Learning  
-Founder, TeraSystemsAI · Research in Healthcare & Security
+TeraSystemsAI · Research in Healthcare & Security
 
 I design and build **reproducible, uncertainty-aware machine learning systems** for real-world decision-making, particularly in high-stakes domains such as fraud detection, customer retention, and healthcare.
 
