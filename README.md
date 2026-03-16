@@ -8,16 +8,15 @@ I design and build **reproducible, uncertainty-aware machine learning systems** 
 
 My work bridges **peer-reviewed research** and **production-grade ML pipelines**, with a strong emphasis on interpretability, evaluation rigor, and risk-aware modeling.
 
----
-
 ## Selected Research Publications
 
-| Title | Journal | Year | DOI |
-|------|--------|------|-----|
-| **Bayesian RAG: Uncertainty-Aware Retrieval for Reliable Financial Question Answering** | Frontiers in Artificial Intelligence | 2026 | https://doi.org/10.3389/frai.2025.1668172 |
-| **Hybrid Naïve Bayes Models for Scam Detection** | IEEE Access | 2025 | https://doi.org/10.1109/access.2025.3569216 |
-| **Enhancing Autonomous Systems with Bayesian Neural Networks** | Frontiers in Built Environment | 2025 | https://doi.org/10.3389/fbuil.2025.1597255 |
-| **Application of Bayesian Neural Networks in Healthcare** | Machine Learning and Knowledge Extraction | 2024 | https://doi.org/10.3390/make6040127 |
+| Title                                                                                                                                                        | Journal                                   | Year | DOI                                                                                        |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------- | ---- | ------------------------------------------------------------------------------------------ |
+| **Stochastic Inventory Optimization with Coherent Risk Measures: A Decision-Theoretic Framework for Probabilistic Forecasting and Constrained Optimization** | Journal of Risk and Financial Management  | 2026 | [https://doi.org/10.3390/jrfm19030173](https://doi.org/10.3390/jrfm19030173)               |
+| **Bayesian RAG: Uncertainty-Aware Retrieval for Reliable Financial Question Answering**                                                                      | Frontiers in Artificial Intelligence      | 2026 | [https://doi.org/10.3389/frai.2025.1668172](https://doi.org/10.3389/frai.2025.1668172)     |
+| **Hybrid Naïve Bayes Models for Scam Detection**                                                                                                             | IEEE Access                               | 2025 | [https://doi.org/10.1109/access.2025.3569216](https://doi.org/10.1109/access.2025.3569216) |
+| **Enhancing Autonomous Systems with Bayesian Neural Networks**                                                                                               | Frontiers in Built Environment            | 2025 | [https://doi.org/10.3389/fbuil.2025.1597255](https://doi.org/10.3389/fbuil.2025.1597255)   |
+| **Application of Bayesian Neural Networks in Healthcare**                                                                                                    | Machine Learning and Knowledge Extraction | 2024 | [https://doi.org/10.3390/make6040127](https://doi.org/10.3390/make6040127)                 |
 
 ---
 
