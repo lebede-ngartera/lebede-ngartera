@@ -60,7 +60,7 @@ Focus areas:
 - Uncertainty-aware property prediction and risk-sensitive modeling
 - Interactive ML system design for technical users
 
-Repository: https://github.com/lebede-ngartera/GeoFusion-AI
+Repository: [https://github.com/lebede-ngartera/GeoFusion-AI](https://lebede-ngartera.github.io/Industrial-3d-geometry-ai/index.html#collaboration)
 
 ---
 
