@@ -2,23 +2,35 @@
 
 **AI Strategist & Machine Learning Engineer**  
 PhD in Applied Mathematics · Bayesian & Probabilistic Machine Learning  
-TeraSystemsAI · Research in Healthcare, Security, and Industrial AI
+TeraSystemsAI LLC · Research in Healthcare, Security, Finance, and Industrial AI
 
-I design and build **reproducible, uncertainty-aware machine learning systems** for real-world decision-making, with particular focus on high-stakes domains such as fraud detection, customer retention, healthcare, and industrial engineering.
+I design and build **reproducible, uncertainty-aware machine learning systems** for real-world decision-making, with a focus on high-stakes domains where reliability, interpretability, and risk control matter.
 
-My work connects **peer-reviewed research** with **production-grade ML systems**, emphasizing interpretability, evaluation rigor, and risk-aware modeling.
+My work connects **peer-reviewed research** with **practical AI systems**, including Bayesian machine learning, uncertainty quantification, evidence-governed RAG, fraud detection, healthcare AI, autonomous systems, financial decision support, and industrial optimization.
+
+My research direction focuses on building trustworthy AI systems that do not only generate predictions or answers, but also evaluate uncertainty, evidence quality, and decision risk before action.
 
 ## Selected Research Publications
 
-| Title                                                                                                                                                        | Journal                                   | Year | DOI                                                                                        |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------- | ---- | ------------------------------------------------------------------------------------------ |
-| **Stochastic Inventory Optimization with Coherent Risk Measures: A Decision-Theoretic Framework for Probabilistic Forecasting and Constrained Optimization** | Journal of Risk and Financial Management  | 2026 | [https://doi.org/10.3390/jrfm19030173](https://doi.org/10.3390/jrfm19030173)               |
-| **Bayesian RAG: Uncertainty-Aware Retrieval for Reliable Financial Question Answering**                                                                      | Frontiers in Artificial Intelligence      | 2026 | [https://doi.org/10.3389/frai.2025.1668172](https://doi.org/10.3389/frai.2025.1668172)     |
-| **Hybrid Naïve Bayes Models for Scam Detection**                                                                                                             | IEEE Access                               | 2025 | [https://doi.org/10.1109/access.2025.3569216](https://doi.org/10.1109/access.2025.3569216) |
-| **Enhancing Autonomous Systems with Bayesian Neural Networks**                                                                                               | Frontiers in Built Environment            | 2025 | [https://doi.org/10.3389/fbuil.2025.1597255](https://doi.org/10.3389/fbuil.2025.1597255)   |
-| **Application of Bayesian Neural Networks in Healthcare**                                                                                                    | Machine Learning and Knowledge Extraction | 2024 | [https://doi.org/10.3390/make6040127](https://doi.org/10.3390/make6040127)                 |
+| Title | Journal | Year | DOI |
+| --- | --- | --- | --- |
+| **BRAG: Bayesian Retrieval-Augmented Generation; A Methodological Framework for Evidence-Governed Decision Support** | Machine Learning and Knowledge Extraction | 2026 | [https://doi.org/10.3390/make8060151](https://doi.org/10.3390/make8060151) |
+| **Stochastic Inventory Optimization with Coherent Risk Measures: A Decision-Theoretic Framework for Probabilistic Forecasting and Constrained Optimization** | Journal of Risk and Financial Management | 2026 | [https://doi.org/10.3390/jrfm19030173](https://doi.org/10.3390/jrfm19030173) |
+| **Bayesian RAG: Uncertainty-Aware Retrieval for Reliable Financial Question Answering** | Frontiers in Artificial Intelligence | 2026 | [https://doi.org/10.3389/frai.2025.1668172](https://doi.org/10.3389/frai.2025.1668172) |
+| **Hybrid Naïve Bayes Models for Scam Detection** | IEEE Access | 2025 | [https://doi.org/10.1109/access.2025.3569216](https://doi.org/10.1109/access.2025.3569216) |
+| **Enhancing Autonomous Systems with Bayesian Neural Networks** | Frontiers in Built Environment | 2025 | [https://doi.org/10.3389/fbuil.2025.1597255](https://doi.org/10.3389/fbuil.2025.1597255) |
+| **Application of Bayesian Neural Networks in Healthcare** | Machine Learning and Knowledge Extraction | 2024 | [https://doi.org/10.3390/make6040127](https://doi.org/10.3390/make6040127) |
 
 ---
+
+## Research Focus
+
+- Bayesian and probabilistic machine learning  
+- Uncertainty quantification and calibration  
+- Evidence-governed Retrieval-Augmented Generation  
+- Trustworthy AI for high-stakes decision support  
+- Fraud detection, healthcare AI, financial AI, and industrial optimization  
+- Reproducible machine learning pipelines and evaluation frameworks
 
 ## Applied Machine Learning Projects
 
