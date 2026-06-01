@@ -1,4 +1,4 @@
-## Ngartera  Lebede
+## Lebede Ngartera
 
 **AI Strategist & Machine Learning Engineer**  
 PhD in Applied Mathematics · Bayesian & Probabilistic Machine Learning  
