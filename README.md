@@ -1,109 +1,199 @@
-## Lebede Ngartera
+<div align="center">
 
-**AI Strategist & Machine Learning Engineer**  
-PhD in Applied Mathematics · Bayesian & Probabilistic Machine Learning  
-TeraSystemsAI LLC · Research in Healthcare, Security, Finance, and Industrial AI
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=3000&pause=900&color=00D4FF&center=true&vCenter=true&width=950&lines=Lebede+Ngartera;AI+Research+Strategist;Applied+Mathematician;Machine+Learning+Engineer;Founder+%26+Chief+Research+Architect+%40+TeraSystemsAI" alt="Typing Animation"/>
 
-I design and build **reproducible, uncertainty-aware machine learning systems** for real-world decision-making, with a focus on high-stakes domains where reliability, interpretability, and risk control matter.
+<br/>
 
-My work connects **peer-reviewed research** with **practical AI systems**, including Bayesian machine learning, uncertainty quantification, evidence-governed RAG, fraud detection, healthcare AI, autonomous systems, financial decision support, and industrial optimization.
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=4200&pause=1000&color=10B981&center=true&vCenter=true&width=950&lines=Trustworthy+AI+%7C+Bayesian+Machine+Learning+%7C+Environmental+Intelligence;Evidence-Governed+AI+%7C+Decision+Intelligence+%7C+AI+Governance;Building+Transparent,+Reliable,+and+Evidence-Grounded+AI+Systems" alt="Research Focus"/>
 
-My research direction focuses on building trustworthy AI systems that do not only generate predictions or answers, but also evaluate uncertainty, evidence quality, and decision risk before action.
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/TeraSystemsAI/.github/main/assets/hero-banner.svg"
+     alt="TeraSystemsAI LLC — Trustworthy AI Research & Engineering"
+     width="100%"/>
+
+</div>
+
+---
+
+# Lebede Ngartera
+
+**AI Research Strategist | Applied Mathematician | Machine Learning Engineer**  
+**Founder & Chief Research Architect, TeraSystemsAI LLC**
+
+**Ph.D. in Applied Mathematics** • Trustworthy AI • Bayesian Machine Learning • Environmental Intelligence • Decision Intelligence
+
+I design and engineer trustworthy AI systems that support high-stakes decision-making through scientific rigor, uncertainty-aware learning, and evidence-grounded reasoning.
+
+My work bridges **peer-reviewed research** and **production-oriented AI engineering**, translating advances in applied mathematics, probabilistic machine learning, and artificial intelligence into systems that remain transparent, auditable, and reliable under real-world conditions.
+
+My current research focuses on:
+
+- Trustworthy AI
+- Uncertainty Quantification
+- Evidence-Governed AI
+- Environmental Intelligence
+- Healthcare AI
+- Fraud Detection
+- Decision Intelligence
+- AI Governance
+
+Rather than asking:
+
+> **"Can an AI system produce an answer?"**
+
+my work explores a more fundamental question:
+
+> **"Can the available evidence justify that answer, and how confidently should it be trusted?"**
+
+---
 
 ## Selected Research Publications
 
 | Title | Journal | Year | DOI |
-| --- | --- | --- | --- |
-| **BRAG: Bayesian Retrieval-Augmented Generation; A Methodological Framework for Evidence-Governed Decision Support** | Machine Learning and Knowledge Extraction | 2026 | [https://doi.org/10.3390/make8060151](https://doi.org/10.3390/make8060151) |
-| **Stochastic Inventory Optimization with Coherent Risk Measures: A Decision-Theoretic Framework for Probabilistic Forecasting and Constrained Optimization** | Journal of Risk and Financial Management | 2026 | [https://doi.org/10.3390/jrfm19030173](https://doi.org/10.3390/jrfm19030173) |
-| **Bayesian RAG: Uncertainty-Aware Retrieval for Reliable Financial Question Answering** | Frontiers in Artificial Intelligence | 2026 | [https://doi.org/10.3389/frai.2025.1668172](https://doi.org/10.3389/frai.2025.1668172) |
-| **Hybrid Naïve Bayes Models for Scam Detection** | IEEE Access | 2025 | [https://doi.org/10.1109/access.2025.3569216](https://doi.org/10.1109/access.2025.3569216) |
-| **Enhancing Autonomous Systems with Bayesian Neural Networks** | Frontiers in Built Environment | 2025 | [https://doi.org/10.3389/fbuil.2025.1597255](https://doi.org/10.3389/fbuil.2025.1597255) |
-| **Application of Bayesian Neural Networks in Healthcare** | Machine Learning and Knowledge Extraction | 2024 | [https://doi.org/10.3390/make6040127](https://doi.org/10.3390/make6040127) |
+| :--- | :--- | :---: | :--- |
+| **BRAG: Bayesian Retrieval-Augmented Generation; A Methodological Framework for Evidence-Governed Decision Support** | *Machine Learning and Knowledge Extraction* | **2026** | https://doi.org/10.3390/make8060151 |
+| **Stochastic Inventory Optimization with Coherent Risk Measures: A Decision-Theoretic Framework for Probabilistic Forecasting and Constrained Optimization** | *Journal of Risk and Financial Management* | **2026** | https://doi.org/10.3390/jrfm19030173 |
+| **Bayesian RAG: Uncertainty-Aware Retrieval for Reliable Financial Question Answering** | *Frontiers in Artificial Intelligence* | **2026** | https://doi.org/10.3389/frai.2025.1668172 |
+| **Hybrid Naïve Bayes Models for Scam Detection** | *IEEE Access* | **2025** | https://doi.org/10.1109/access.2025.3569216 |
+| **Enhancing Autonomous Systems with Bayesian Neural Networks** | *Frontiers in Built Environment* | **2025** | https://doi.org/10.3389/fbuil.2025.1597255 |
+| **Application of Bayesian Neural Networks in Healthcare** | *Machine Learning and Knowledge Extraction* | **2024** | https://doi.org/10.3390/make6040127 |
+
+> **Complete publication list:** https://www.terasystems.ai/publications.html
 
 ---
 
-## Research Focus
+# Research Areas
 
-- Bayesian and probabilistic machine learning  
-- Uncertainty quantification and calibration  
-- Evidence-governed Retrieval-Augmented Generation  
-- Trustworthy AI for high-stakes decision support  
-- Fraud detection, healthcare AI, financial AI, and industrial optimization  
-- Reproducible machine learning pipelines and evaluation frameworks
-
-## Applied Machine Learning Projects
-
-### Customer Churn Risk Prediction
-End-to-end machine learning pipeline for customer churn prediction using real-world tabular data, with a focus on reproducibility, leakage control, evaluation discipline, and explainability.
-
-Repository: https://github.com/lebede-ngartera/customer-churn-risk-ml
-
----
-
-## Decision Intelligence & Operations Research
-
-### Supply Chain Decision Intelligence
-Decision-intelligence project integrating probabilistic demand forecasting, constrained optimization, and Monte Carlo risk evaluation for supply chain planning under uncertainty.
-
-The project shows how uncertainty-aware forecasts ($P50$ vs $P90$) lead to materially different operational decisions under inventory, capacity, and budget constraints, and how CVaR-based stress testing exposes tail risk that mean-based metrics miss.
-
-Focus areas:
-- Forecast-to-decision linkage
-- Optimization under operational constraints
-- Risk-aware evaluation via Monte Carlo simulation
-- Executive-style decision memos communicating cost, service, and risk tradeoffs
-
-Repository: https://github.com/lebede-ngartera/supply-chain-decision-intelligence
+- Trustworthy AI
+- Bayesian & Probabilistic Machine Learning
+- Uncertainty Quantification
+- Environmental Intelligence
+- Evidence-Governed Retrieval-Augmented Generation
+- AI Governance
+- Decision Intelligence
+- Healthcare AI
+- Financial AI
+- Industrial AI
+- Explainable AI
+- Reproducible Machine Learning
 
 ---
 
-## Industrial AI & Multimodal Systems
+# Selected Engineering Projects
 
-### GeoFusion AI
-Industrial multimodal AI platform for 3D CAD geometry understanding, combining point-cloud learning, graph neural networks, retrieval, anomaly detection, uncertainty-aware prediction, and generative modeling.
+## Trusted Environmental Intelligence (TEI)
 
-The project unifies **3D geometry, text, and engineering metadata** into a shared embedding space to support similarity search, anomaly detection, text-to-shape retrieval, and engineering decision support in CAD/CAE workflows.
+A scientific initiative advancing evidence-bounded environmental interpretation through the Environmental Concordance Framework (ECF), quantified reliability, deterministic reasoning, and transparent environmental intelligence.
 
-Focus areas:
-- Multimodal representation learning for industrial data
-- 3D geometric deep learning with PointNet++, DGCNN, and GNNs
-- Retrieval and anomaly detection for engineering workflows
-- Uncertainty-aware property prediction and risk-sensitive modeling
-- Interactive ML system design for technical users
+**Explore**
 
-Repository: [https://github.com/lebede-ngartera/GeoFusion-AI](https://lebede-ngartera.github.io/Industrial-3d-geometry-ai/index.html#collaboration)
+- https://www.terasystems.ai/environmental-intelligence.html
+- https://www.terasystems.ai/indexTEI.html
+- https://www.terasystems.ai/tei-collaborative-network.html
 
 ---
 
-### Scam Detection via Hybrid Bayesian Models
-Implementation and evaluation of hybrid Naive Bayes-based models for real-world scam detection, derived from peer-reviewed research.
+## TeraDocFlow
 
-Focus areas:
-- Bayesian generative modeling under data sparsity
-- Cost-sensitive evaluation in highly imbalanced settings
-- Uncertainty-aware decision thresholds
+Evidence-governed document intelligence platform combining deterministic reasoning, retrieval, and modern language models for trustworthy document understanding and research workflows.
 
-Derived from: *Hybrid Naïve Bayes Models for Scam Detection* (IEEE Access, 2025)  
-Repository: *(in progress)*
+Focus:
 
----
-
-## Research → System Philosophy
-
-- **Research** defines what is theoretically sound
-- **Engineering** determines what is deployable
-- **Evaluation** decides what is trustworthy
-
-I focus on making tradeoffs explicit and uncertainty visible rather than optimizing single-point metrics in isolation.
+- Hybrid Retrieval
+- Knowledge Synthesis
+- Document Intelligence
+- Research Productivity
+- Trustworthy AI
 
 ---
 
-## Areas of Interest
+## Customer Churn Risk Prediction
 
-- Fraud and scam detection
-- Customer behavior modeling
-- Bayesian and probabilistic machine learning
-- Risk-aware AI systems
-- Industrial AI for engineering workflows
-- Interpretable ML in regulated environments
+End-to-end machine learning pipeline emphasizing reproducibility, leakage prevention, explainability, calibration, and disciplined evaluation.
+
+Repository
+
+https://github.com/lebede-ngartera/customer-churn-risk-ml
+
+---
+
+## Supply Chain Decision Intelligence
+
+Decision intelligence integrating probabilistic forecasting, constrained optimization, coherent risk measures, and Monte Carlo simulation for operational planning under uncertainty.
+
+Repository
+
+https://github.com/lebede-ngartera/supply-chain-decision-intelligence
+
+---
+
+## GeoFusion AI
+
+Industrial multimodal AI platform integrating CAD geometry, engineering metadata, graph neural networks, retrieval, anomaly detection, and uncertainty-aware prediction.
+
+Repository
+
+https://lebede-ngartera.github.io/Industrial-3d-geometry-ai/
+
+---
+
+## Scam Detection via Hybrid Bayesian Models
+
+Implementation of peer-reviewed probabilistic models for scam detection in highly imbalanced environments.
+
+Repository
+
+*In Progress*
+
+---
+
+# Research Philosophy
+
+I believe trustworthy AI emerges from the integration of:
+
+- **Scientific Research**
+- **Engineering Discipline**
+- **Transparent Evaluation**
+
+Research establishes scientific foundations.
+
+Engineering transforms theory into deployable systems.
+
+Evaluation determines whether a system deserves trust.
+
+My work emphasizes making uncertainty explicit, quantifying reliability, and supporting accountable decision-making rather than optimizing single-point performance metrics.
+
+---
+
+# Current Research Interests
+
+- Trustworthy AI
+- Environmental Intelligence
+- Bayesian Machine Learning
+- AI Governance
+- Evidence-Governed AI
+- Decision Intelligence
+- Healthcare AI
+- Financial AI
+- Industrial AI
+- Document Intelligence
+- Uncertainty Quantification
+- Explainable AI
+
+---
+
+<div align="center">
+
+### Connect with Me
+
+[Website](https://www.terasystems.ai) •
+[Publications](https://www.terasystems.ai/publications.html) •
+[LinkedIn](https://linkedin.com/in/lebedengartera) •
+[GitHub](https://github.com/lebede-ngartera)
+
+---
+
+**"Building AI systems that know not only what they can infer, but also when the available evidence is insufficient."**
+
+</div>
