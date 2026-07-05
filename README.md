@@ -94,20 +94,6 @@ A scientific initiative advancing evidence-bounded environmental interpretation 
 
 ---
 
-## TeraDocFlow
-
-Evidence-governed document intelligence platform combining deterministic reasoning, retrieval, and modern language models for trustworthy document understanding and research workflows.
-
-Focus:
-
-- Hybrid Retrieval
-- Knowledge Synthesis
-- Document Intelligence
-- Research Productivity
-- Trustworthy AI
-
----
-
 ## Customer Churn Risk Prediction
 
 End-to-end machine learning pipeline emphasizing reproducibility, leakage prevention, explainability, calibration, and disciplined evaluation.
