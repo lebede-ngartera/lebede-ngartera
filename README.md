@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=3000&pause=900&color=00D4FF&center=true&vCenter=true&width=950&lines=Lebede+Ngartera;AI+Research+Strategist;Applied+Mathematician;Machine+Learning+Engineer;Founder+%26+Chief+Research+Architect+%40+TeraSystemsAI" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=950&lines=Lebede+Ngartera;AI+Research+Strategist;Applied+Mathematician;Machine+Learning+Engineer;Research+%40+TeraSystemsAI" alt="Professional Title Animation"/>
 
 <br/>
 
